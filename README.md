@@ -702,13 +702,7 @@ registerServiceWorker();
 sudo yarn start
 ```
 
-### Create react app reference
 
-```
-https://facebook.github.io/create-react-app/
-```
-
-### Reference tutorial
 
 ```
 https://github.com/RobDWaller/ReallySimpleJWT
